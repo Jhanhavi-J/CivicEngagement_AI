@@ -40,7 +40,7 @@ This project serves as a foundation for **AI-driven civic engagement**, improvin
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-repo/Civic-EA.git
+   git clone https://github.com/Jhanhavi-J/CivicEngagement_AI/blob/main/README.md
    
 2. Navigate to the backend directory:
    cd Civic-EA/backend
