@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "Community Clean-up",
+      "date": "2025-03-01",
+      "location": "Central Park"
+    },
+    {
+      "id": 2,
+      "title": "Town Hall Meeting",
+      "date": "2025-03-05",
+      "location": "City Hall"
+    }
+  ]
